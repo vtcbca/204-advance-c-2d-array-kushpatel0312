@@ -15,6 +15,7 @@ Sai  : 2 : a,i
 Ram: 3: a
 Radha:2 a,a
 Gopal: 2:a,a
+/* WAP to input any  5 ch & print vowel*/
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
